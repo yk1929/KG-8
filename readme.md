@@ -11,10 +11,10 @@ slim2の改造リポジトリ<br>
 Render以外でのdeployに必要（あった方が良い）ファイルやデプロイボタンは<a href="https://github.com/siawaseok3/slim-2-by-siawaseok">このリポジトリ</a>から頂きました。
 
 # Deploy / デプロイ
-<a href="https://render.com/deploy?repo=https://github.com/LunaKamituki/new-instance.git">
+<a href="https://render.com/deploy?repo=[https://github.com/LunaKamituki/new-instance.git](https://github.com/yk1929/KG-8.git)">
  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"><br>
 </a>
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/LunaKamituki/new-instance.git">
+<a href="https://vercel.com/new/clone?repository-url=[https://github.com/LunaKamituki/new-instance.git](https://github.com/yk1929/KG-8.git)">
   <img src="https://vercel.com/button" alt="Deploy to Vercel">
 </a>
 

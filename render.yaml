@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: new-instance
+    name: KG-8 maintenance station
     env: python
     region: Oregon
     plan: free
